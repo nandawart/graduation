@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FaculdadeVincit.PRE.EstruturasHeterogeneas/1.0.0": {
+        "runtime": {
+          "FaculdadeVincit.PRE.EstruturasHeterogeneas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FaculdadeVincit.PRE.EstruturasHeterogeneas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
