@@ -1,0 +1,14 @@
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\bin\Debug\net8.0\FaculdadeVincit.PRE.Desvio.exe
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\bin\Debug\net8.0\FaculdadeVincit.PRE.Desvio.deps.json
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\bin\Debug\net8.0\FaculdadeVincit.PRE.Desvio.runtimeconfig.json
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\bin\Debug\net8.0\FaculdadeVincit.PRE.Desvio.dll
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\bin\Debug\net8.0\FaculdadeVincit.PRE.Desvio.pdb
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\obj\Debug\net8.0\FaculdadeVincit.PRE.Desvio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\obj\Debug\net8.0\FaculdadeVincit.PRE.Desvio.AssemblyInfoInputs.cache
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\obj\Debug\net8.0\FaculdadeVincit.PRE.Desvio.AssemblyInfo.cs
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\obj\Debug\net8.0\FaculdadeVincit.PRE.Desvio.csproj.CoreCompileInputs.cache
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\obj\Debug\net8.0\FaculdadeVincit.PRE.Desvio.dll
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\obj\Debug\net8.0\refint\FaculdadeVincit.PRE.Desvio.dll
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\obj\Debug\net8.0\FaculdadeVincit.PRE.Desvio.pdb
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\obj\Debug\net8.0\FaculdadeVincit.PRE.Desvio.genruntimeconfig.cache
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Desvio\FaculdadeVincit.PRE.Desvio\obj\Debug\net8.0\ref\FaculdadeVincit.PRE.Desvio.dll
