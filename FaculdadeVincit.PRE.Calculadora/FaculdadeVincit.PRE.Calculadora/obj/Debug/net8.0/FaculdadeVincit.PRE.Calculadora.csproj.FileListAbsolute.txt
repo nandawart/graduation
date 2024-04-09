@@ -1,0 +1,14 @@
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\obj\Debug\net8.0\FaculdadeVincit.PRE.Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\obj\Debug\net8.0\FaculdadeVincit.PRE.Calculadora.AssemblyInfoInputs.cache
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\obj\Debug\net8.0\FaculdadeVincit.PRE.Calculadora.AssemblyInfo.cs
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\obj\Debug\net8.0\FaculdadeVincit.PRE.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\bin\Debug\net8.0\FaculdadeVincit.PRE.Calculadora.exe
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\bin\Debug\net8.0\FaculdadeVincit.PRE.Calculadora.deps.json
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\bin\Debug\net8.0\FaculdadeVincit.PRE.Calculadora.runtimeconfig.json
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\bin\Debug\net8.0\FaculdadeVincit.PRE.Calculadora.dll
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\bin\Debug\net8.0\FaculdadeVincit.PRE.Calculadora.pdb
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\obj\Debug\net8.0\FaculdadeVincit.PRE.Calculadora.dll
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\obj\Debug\net8.0\refint\FaculdadeVincit.PRE.Calculadora.dll
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\obj\Debug\net8.0\FaculdadeVincit.PRE.Calculadora.pdb
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\obj\Debug\net8.0\FaculdadeVincit.PRE.Calculadora.genruntimeconfig.cache
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.Calculadora\FaculdadeVincit.PRE.Calculadora\obj\Debug\net8.0\ref\FaculdadeVincit.PRE.Calculadora.dll
