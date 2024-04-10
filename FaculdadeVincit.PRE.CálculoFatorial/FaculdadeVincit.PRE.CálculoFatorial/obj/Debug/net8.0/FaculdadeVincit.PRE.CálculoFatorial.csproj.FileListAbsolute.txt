@@ -1,0 +1,14 @@
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\bin\Debug\net8.0\FaculdadeVincit.PRE.CálculoFatorial.exe
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\bin\Debug\net8.0\FaculdadeVincit.PRE.CálculoFatorial.deps.json
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\bin\Debug\net8.0\FaculdadeVincit.PRE.CálculoFatorial.runtimeconfig.json
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\bin\Debug\net8.0\FaculdadeVincit.PRE.CálculoFatorial.dll
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\bin\Debug\net8.0\FaculdadeVincit.PRE.CálculoFatorial.pdb
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\obj\Debug\net8.0\FaculdadeVincit.PRE.CálculoFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\obj\Debug\net8.0\FaculdadeVincit.PRE.CálculoFatorial.AssemblyInfoInputs.cache
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\obj\Debug\net8.0\FaculdadeVincit.PRE.CálculoFatorial.AssemblyInfo.cs
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\obj\Debug\net8.0\FaculdadeVincit.PRE.CálculoFatorial.csproj.CoreCompileInputs.cache
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\obj\Debug\net8.0\FaculdadeVincit.PRE.CálculoFatorial.dll
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\obj\Debug\net8.0\refint\FaculdadeVincit.PRE.CálculoFatorial.dll
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\obj\Debug\net8.0\FaculdadeVincit.PRE.CálculoFatorial.pdb
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\obj\Debug\net8.0\FaculdadeVincit.PRE.CálculoFatorial.genruntimeconfig.cache
+C:\Users\Nanda\Documents\Faculdade\1 semestre\Programação estruturada\FaculdadeVincit.PRE.CálculoFatorial\FaculdadeVincit.PRE.CálculoFatorial\obj\Debug\net8.0\ref\FaculdadeVincit.PRE.CálculoFatorial.dll
